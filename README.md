@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Compound investment projects graphing retirement savings thresholds.
+  name: retirement-planner-visual version: 1.0 type: Repository author: VarshuAi description: >   Compound investment projects graphing retirement savings thresholds. primary_tech: CSS
 primary_tech: CSS
 ```
 
